@@ -3,6 +3,7 @@
     "rootDir": "./src",
     "outDir": "./dist",
     "target": "ES5",
+    "lib": ["ES2015", "DOM"],
     "module": "CommonJS",
     "strict": true
   },
